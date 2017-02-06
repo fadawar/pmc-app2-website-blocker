@@ -1,3 +1,3 @@
 # Website blocker in Python
 
-_Application 2 from The Python Mega Course_
+_Application 3 from The Python Mega Course_
